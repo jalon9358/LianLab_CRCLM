@@ -1,9 +1,0 @@
-colors_crc=c("antiquewhite3","aquamarine","blueviolet","brown1","brown4","burlywood4","cyan2",
-             "chartreuse4","chocolate2","cornflowerblue","darkblue","darkcyan","darkgoldenrod","darkmagenta",
-             "darkslategray","darkslateblue","deeppink",
-             "deeppink4","deepskyblue","deepskyblue4","hotpink3",
-             "indianred3","ivory4","khaki","lavender","lemonchiffon2","lightblue",
-             "lightcoral","lightpink","lightpink4","magenta","maroon3","mediumaquamarine",
-             "mediumorchid1","mediumpurple1",
-             "mediumturquoise","moccasin","orchid4","royalblue","peru",
-             "plum1","sienna","yellow4","steelblue","tan")
